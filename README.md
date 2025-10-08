@@ -1,4 +1,11 @@
 # [@superfast_news_bot](https://t.me/superfast_news_bot)
+Hi! I'm your personal news filter.
+- Don't have time to read all your Telegram channels?
+- Tired of reading the same news in different channels?
+- Is information noise making you anxious?
+
+I'll help you solve that!
+I read all your channels to find and combine repeated stories. No more duplicates! You read less and learn more. You receive only unique and important information.
 
 ## Overview
 Telegram bot that monitors multiple Telegram channels and provides AI-powered consolidated news digests by identifying and grouping duplicate or similar stories across channels.
