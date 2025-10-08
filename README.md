@@ -1,0 +1,1 @@
+@superfast_news_bot
