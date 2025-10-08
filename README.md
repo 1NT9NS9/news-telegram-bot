@@ -1,4 +1,4 @@
-# (@superfast_news_bot)[https://t.me/superfast_news_bot]
+# [@superfast_news_bot](https://t.me/superfast_news_bot)
 
 ## Overview
 Telegram bot that monitors multiple Telegram channels and provides AI-powered consolidated news digests by identifying and grouping duplicate or similar stories across channels.
