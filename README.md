@@ -1,6 +1,6 @@
 # Telegram news bot
 - [superfast_news_bot](https://t.me/superfast_news_bot)
-- [t.me/fast_news_ai](https://t.me/fast_news_ai) channel
+- [fast_news_ai](https://t.me/fast_news_ai) channel
 
 Hi! I'm your personal news filter.
 - Don't have time to read all your Telegram channels?
